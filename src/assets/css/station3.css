@@ -1,7 +1,3 @@
-body {
-    background-color: #ffffff;
-}
-
 .card__img-top {
     width: 288px;
     height: 182px;
@@ -10,6 +6,7 @@ body {
 
 .card {
     padding: 10px;
+    background-color: #fff;
 }
 
 .card__title {
